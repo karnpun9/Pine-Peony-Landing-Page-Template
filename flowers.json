@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B001",
+    "name": "Rose Elegance",
+    "type": "Bouquet",
+    "description": "12 red roses wrapped in kraft paper with baby’s breath",
+    "price": 890,
+    "image": "https://via.placeholder.com/300x300?text=Rose+Elegance"
+  },
+  {
+    "id": "B002",
+    "name": "Lily Love",
+    "type": "Vase Arrangement",
+    "description": "Elegant white lilies in a clear glass vase",
+    "price": 1200,
+    "image": "https://via.placeholder.com/300x300?text=Lily+Love"
+  },
+  {
+    "id": "B003",
+    "name": "Sunrise Bouquet",
+    "type": "Bouquet",
+    "description": "Sunflowers and daisies in soft peach wrapping",
+    "price": 980,
+    "image": "https://via.placeholder.com/300x300?text=Sunrise+Bouquet"
+  },
+  {
+    "id": "B004",
+    "name": "Pastel Dream",
+    "type": "Bouquet",
+    "description": "Hydrangeas, blush roses in pastel tones",
+    "price": 1150,
+    "image": "https://via.placeholder.com/300x300?text=Pastel+Dream"
+  },
+  {
+    "id": "B005",
+    "name": "Mini Surprise",
+    "type": "Mini Box",
+    "description": "3 white roses in a clear gift box tied with satin ribbon",
+    "price": 390,
+    "image": "https://via.placeholder.com/300x300?text=Mini+Surprise"
+  },
+  {
+    "id": "B006",
+    "name": "Elegant Orchid",
+    "type": "Vase Arrangement",
+    "description": "Pink dendrobium orchids in a ceramic vase",
+    "price": 1350,
+    "image": "https://via.placeholder.com/300x300?text=Elegant+Orchid"
+  },
+  {
+    "id": "B007",
+    "name": "Condolence White",
+    "type": "Sympathy Arrangement",
+    "description": "All-white sympathy arrangement with seasonal flowers",
+    "price": 2000,
+    "image": "https://via.placeholder.com/300x300?text=Condolence+White"
+  },
+  {
+    "id": "B008",
+    "name": "Box of Love",
+    "type": "Box Arrangement",
+    "description": "Red roses packed tightly in a rustic wooden box",
+    "price": 1450,
+    "image": "https://via.placeholder.com/300x300?text=Box+of+Love"
+  }
+]
